@@ -1,0 +1,28 @@
+body {
+     background: rgb(34, 67, 96);
+}
+div {
+    width: 850px;
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    width: 500px;
+    margin: 0 auto; 
+    margin-top: 50px;
+    margin-bottom: 50px ;
+}
+button {
+    width: 250px;
+    height: 60px;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: crimson;
+    border: 0ch;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+}
