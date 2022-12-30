@@ -1,4 +1,4 @@
 document.querySelector("button").addEventListener("click", () => {
-    alert("ПОЛУЧИТЬ КУСЬ");
+    alert("Вы получили кусь");
 });
 
