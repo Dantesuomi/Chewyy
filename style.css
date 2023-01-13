@@ -1,11 +1,11 @@
 body {
-     background: rgb(200, 228, 223);
+     background: rgb(20, 18, 30);
 }
 div {
     width: 850px;
     margin: 0 auto;
-    text-align: left;
-    color: rgb(51, 49, 46);
+    text-align: justify;
+    color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
 }
 p {
